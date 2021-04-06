@@ -1,4 +1,4 @@
-# ValheimPlayerExporter
+# Valheim player exporter and importer
 
 1. Stop Valheim, and disable steam cloud saves. Ensure java is installed
 2. Run the file run_export_character. This will export your most recently played character, you may also copy the fch file and name it input.fch. Input files can be found at: %appdata%/../LocalLow/IronGate/Valheim/characters
